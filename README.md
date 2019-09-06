@@ -24,8 +24,9 @@ Please perform the following:
     1. What is the number of unique users?
     2. Who are the marketing ad providers?
     3. Which user property is changed the most frequently?
-    4. Which ad was showed the most to users who identify as moderates?
-    5. What are the top 5 ads? Explain how you arrived at that conclusion.
+    4. How many users where shown a Snapchat ad on July 3rd, 2019?
+    5. Which ad was showed the most to users who identify as moderates?
+    6. What are the top 5 ads? Explain how you arrived at that conclusion.
 
 Please let us know when you are satisfied with your repository and when we can review it.
 
